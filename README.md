@@ -6,9 +6,11 @@ This is a full-stack social media app built with MERN (MongoDB, Express, React, 
 
 ![](images/home.png)
 
-HomePage
+# HomePage
 ![](images/homedark.png)
-Dark mode
+
+
+# Dark mode
 
 ![](images/login.png)
-Login Page
+# Login Page
