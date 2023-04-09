@@ -6,7 +6,6 @@ Social Media App with MERN Stack
 This is a full-stack social media app built with MERN (Mysql, Express, React, Node.js) stack. The app allows users to create accounts, post messages, like and comment on posts, follow other users, and switch between light and dark modes. The app uses JSON Web Token (JWT) authentication and Morgan middleware for logging.
 
 # HomePage
-# HomePage
 
 ![](images/home.png)
 # Dark mode
